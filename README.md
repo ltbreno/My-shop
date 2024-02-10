@@ -1,4 +1,4 @@
-# My-shop
+# My-shop ( Projeto disponibilizado na Branch Master ) 
 
 # Sobre Projeto:
 
